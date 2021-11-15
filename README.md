@@ -1,2 +1,4 @@
 # PortfolioLuke
-The one and only Luke Nielsen! 11th grade. 17...
+The one and only Luke Nielsen!
+<br>
+I am in 11th grade, I am 17.
